@@ -4,14 +4,14 @@
 
 ### Assignment Details
 
-This repository is part of an assignment for the *CS501: Deep Learning Complete Course*. It includes all materials, assignments, projects, and exercises completed throughout the duration of the course. The repository serves as a comprehensive portfolio demonstrating the application of deep learning concepts and Python programming skills acquired during the course.
+This repository is part of an assignment for the CS501: Deep Learning Complete Course of Dr. Saad Laouadi. It includes all materials, assignments, projects, and exercises completed throughout the duration of the course. The repository serves as a comprehensive portfolio demonstrating the application of deep learning concepts and Python programming skills acquired during the course.
 
 ### Repository Structure
 
-- *data/*: Folder containing any datasets or data files
-- *notebooks/*: Jupyter notebooks with course exercises
-- *scripts/*: Python scripts for deep learning models and experiments
-- *README.md*: Overview of the project and repository structure
+- `data/`: Folder containing datasets and data files of the course
+- `notebooks/`: Jupyter notebooks with course exercises
+- `scripts/`: Python scripts for deep learning models and experiments
+- `README.md`: Overview of the project and repository structure
 
 ### Instructor's GitHub Repository
 
